@@ -7,5 +7,7 @@
 ## 集合場所
 東京駅 新幹線中央乗り換え口 8:30
 
+[東京駅 構内図](http://www.jreast.co.jp/estation/stations/1039.html)
+
 ## あとで書く
 トゥギャッターとか、ブログ記事とかメモとかQiitaとか貼ろう。
